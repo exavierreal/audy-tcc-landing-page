@@ -131,6 +131,7 @@ header p {
   color: #FFFFFF;
   font-weight: 400;
   font-size: 15px;
+  cursor: pointer;
 }
 
 #hero .hero-first-row .hero-buttons .hero-button-discover {
@@ -825,6 +826,7 @@ footer {
     font-weight: 400;
     font-size: 15px;
     color: #FFFFFF;
+    cursor: pointer;
   }
 
   #dashboard .dashboard-card .card-block p.thanks {
