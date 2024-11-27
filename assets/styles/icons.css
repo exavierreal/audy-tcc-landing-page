@@ -1,0 +1,125 @@
+.arrow-up-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-arrow-up.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.arrow-left-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-arrow-left.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.arrow-right-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-arrow-right.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.blue-circle-icon {
+  display: inline-block;
+  background-image: url('../icons/blue-circle.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.chart-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-chart.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.customize-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-customize.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.diamond-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-diamond.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.lightblue-circle-icon {
+  display: inline-block;
+  background-image: url('../icons/lightblue-circle.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.magic-wand-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-magic-wand.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.mobile-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-mobile.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.pages-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-pages.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.play-button-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-play.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.puzzle-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-puzzle.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.sidebar-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-sidebar.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.square-code-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-square-code.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.table-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-table.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.tag-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-tag.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.update-icon {
+  display: inline-block;
+  background-image: url('../icons/icon-update.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
