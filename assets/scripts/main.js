@@ -30,6 +30,7 @@ const arrowRight = document.getElementById("arrow-right");
 
 const prototypeLinkMobile = 'https://www.figma.com/proto/9KAGkdCHp9WiSw4dxBDzNp/Desenvolvimento-Projeto-TCC?page-id=642%3A1051&node-id=642-1379&node-type=frame&viewport=242%2C206%2C0.14&t=gglCnt2NCg96LVQq-1&scaling=contain&content-scaling=fixed&starting-point-node-id=642%3A1379&show-proto-sidebar=1';
 const prototypeLinkDesktop = 'https://www.figma.com/proto/9KAGkdCHp9WiSw4dxBDzNp/Desenvolvimento-Projeto-TCC?page-id=133%3A3&node-id=348-5743&node-type=frame&viewport=115%2C252%2C0.09&t=N4H6Ch97eaaQE4Dm-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=368%3A21160';
+const promotionalLink = 'https://www.youtube.com/watch?v=A0JpB3dSmT4';
 
 // Índice atual
 let currentIndex = 0;
@@ -57,7 +58,6 @@ arrowLeft.addEventListener("click", () => {
   }
 });
 
-// Inicializar o card
 updateCard(currentIndex);
 
 function openLink() {
@@ -66,4 +66,8 @@ function openLink() {
   } else {
     window.open(prototypeLinkDesktop, '_blank');
   }
+}
+
+function openVideo() {
+  window.open(promotionalLink);
 }

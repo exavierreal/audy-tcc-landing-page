@@ -137,6 +137,7 @@ header p {
 #hero .hero-first-row .hero-buttons .hero-button-discover {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 #hero .hero-first-row .hero-buttons .play-button-icon {
